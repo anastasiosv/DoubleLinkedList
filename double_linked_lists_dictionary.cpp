@@ -1,5 +1,6 @@
 /*
-Data structures 4th lab project about double linked lists
+Dictionary using linkedlists
+Project for data structures lab
 */
 #include <iostream>
 #include <fstream>
